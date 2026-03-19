@@ -1,2 +1,3 @@
-# rapid-social-platform-i88i
+# Rapid Social Platform I88I
+
 A social networking platform for modern development workflows.
